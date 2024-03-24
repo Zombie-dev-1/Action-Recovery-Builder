@@ -6,6 +6,9 @@ Supports TWRP, OrangeFox, PBRP & SHRP compilation and production
 
 ## Release Notes
 ```
+= 2024-03-05
+- [TWRP, OrangeFox] Allow non-Github/Gitlab remotes for AOSP device trees
+
 = 2024-02-23
 - [OrangeFox] Add input field for additional/optional flags
 - [OrangeFox] Add fixes for some unique device trees
